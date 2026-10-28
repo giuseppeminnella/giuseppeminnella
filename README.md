@@ -7,4 +7,3 @@
 - [Department-as-a-Service](https://www.linkedin.com/posts/giuseppeminnella_department-as-a-service-a-linkedin-friendly-ugcPost-7386695784387407872-Y_hO/), Bank on Tech, September 2025
 - [Content Analyzer deep dive](https://www.linkedin.com/posts/giuseppeminnella_mediaandtechcon-ai-design-share-7083807177127145472-IMiA/), with Pascal Roski, Media and Tech Con, June 2023
 
-All of them, kept up to date: [giuseppe.dev/talks](https://giuseppe.dev/talks/)
